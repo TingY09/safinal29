@@ -23,7 +23,7 @@ st.write("1. 分別計算經濟成長率、失業率、消費者物價-指數、
 st.header(":six:使用工具", divider='grey')
 st.write("1. Streamlit。\n2. Excel。")
 st.header(":seven:程式碼", divider='rainbow')
-st.link_button('github', 'https://github.com/TingY09/SAFinal')
+st.link_button('github', 'https://github.com/TingY09/safinal29')
 
 
 
